@@ -1,0 +1,6 @@
+<svg width="400" height="250" xmlns="http://www.w3.org/2000/svg">
+    <symbol id="envelope" viewBox="0 0 300 300">
+        <rect width="450" height="300" style="fill:none;stroke-width:7;stroke:black" />
+        <path d="M225 150 L450 0 L0 0 Z" fill="none" stroke="black" stroke-width="7">
+    </symbol>
+</svg>
