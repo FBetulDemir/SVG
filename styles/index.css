@@ -1,3 +1,7 @@
-.youtube-icon{
-    fill: red;
+.container{
+    display: flex;
+    margin: 10% 10%;
+}
+.envelope{
+    margin-top: 5%;
 }
